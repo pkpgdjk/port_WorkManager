@@ -1,0 +1,129 @@
+.react-calendar-timeline .rct-items .rct-item.order {
+    background: #C1C1C1;
+    border: 1px solid #c1c1c1;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.order {
+    background: #575757;
+    border: 1px solid #575757;
+}
+
+.react-calendar-timeline .rct-items .rct-item.deposit {
+    background: #ffc300;
+    border: 1px solid #FFC300;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.deposit {
+    background: #e6ab00;
+    border: 1px solid #e6ab00;
+}
+
+.react-calendar-timeline .rct-items .rct-item.ready {
+    background: #afff92;
+    border: 1px solid #afff92;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.ready {
+    background: #9ae67e;
+    border: 1px solid #9ae67e;
+}
+
+.react-calendar-timeline .rct-items .rct-item.proceed {
+    background: #00c0ff;
+    border: 1px solid #00C0FF;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.proceed {
+    background: #009ed6;
+    border: 1px solid #009ED6;
+}
+
+
+.react-calendar-timeline .rct-items .rct-item.paid {
+    background: #c28dff;
+    border: 1px solid #C28DFF;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.paid {
+    background: #ba3fff;
+    border: 1px solid #BA3FFF;
+}
+
+
+
+.react-calendar-timeline .rct-items .rct-item.complete {
+    background: #05ff57;
+    border: 1px solid #05FF57;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.complete {
+    background: #05bf49;
+    border: 1px solid #05BF49;
+}
+
+
+.react-calendar-timeline .rct-items .rct-item.cancel {
+    background: #ff9a81;
+    border: 1px solid #FF9A81;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.cancel{
+    background: #ff5244;
+    border: 1px solid #ff5244;
+}
+
+.react-calendar-timeline .rct-items .rct-item.booking {
+    background: #f775ff;
+    border: 1px solid #f775ff;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.booking{
+    background: #ff21d8;
+    border: 1px solid #ff21d8;
+}
+
+.react-calendar-timeline .rct-items .rct-item.finish {
+    background: #222222;
+    border: 1px solid #222222;
+}
+
+.react-calendar-timeline .rct-items .rct-item.selected.finish{
+    background: #222222;
+    border: 1px solid #222222;
+}
+
+
+
+/*change timeline color*/
+
+.react-calendar-timeline .rct-header .rct-label-group {
+    background: #0089ff;
+}
+.react-calendar-timeline .rct-sidebar .rct-sidebar-header {
+    background: #0056a0;
+}
+
+.txtOrder{
+    color: #C1C1C1;
+}
+.txtDeposit{
+    color: #ffc300;
+}
+.txtReady{
+    color: #afff92;
+}
+.txtProceed{
+    color: #00c0ff;
+}
+.txtPaid{
+    color: #c28dff;
+}
+.txtComplete{
+    color: #05ff57;
+}
+.txtCancel{
+    color: #ff9a81;
+}
+.txtFinish{
+    color: #fff8f3;
+}
